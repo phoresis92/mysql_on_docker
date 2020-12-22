@@ -1,0 +1,4 @@
+
+db001/data/**
+!db001/data/.keep
+db001/log/mysqld.log
