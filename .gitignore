@@ -2,3 +2,11 @@
 db001/data/**
 !db001/data/.keep
 db001/log/mysqld.log
+
+db002/data/**
+!db002/data/.keep
+db002/log/mysqld.log
+
+db003/data/**
+!db003/data/.keep
+db003/log/mysqld.log
